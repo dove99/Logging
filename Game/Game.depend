@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1575915019 source:c:\users\douglas\codeblocks\game\main.cpp
+	"utils.h"
+	"logger.h"
+	<string>
+	<thread>
+	<chrono>
+
+1575379297 c:\users\douglas\codeblocks\game\logger.hpp
+	<iostream>
+	<memory>
+	<fstream>
+	<string>
+
+1575914267 c:\users\douglas\codeblocks\game\include\logger.h
+	<fstream>
+	<iostream>
+	<cstdarg>
+	<string.h>
+	<thread>
+	"utils.h"
+
+1575915774 source:c:\users\douglas\codeblocks\game\src\logger.cpp
+	"utils.h"
+	"logger.h"
+	<mutex>
+	<chrono>
+	<string>
+	<thread>
+	<chrono>
+
+1575907872 c:\users\douglas\codeblocks\game\include\utils.h
+	<iostream>
+	<string>
+	<time.h>
+
+1575908771 source:c:\users\douglas\codeblocks\game\src\utils.cpp
+	"utils.h"
+
